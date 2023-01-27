@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://attached-container+7b22636f6e7461696e65724e616d65223a222f6f646f6f2d646b636f6d706f73652d7765622d31227d/usr/lib/python3/dist-packages/odoo/addons"
+		}
+	],
+	"remoteAuthority": "attached-container+7b22636f6e7461696e65724e616d65223a222f6f646f6f2d646b636f6d706f73652d7765622d31227d",
+	"settings": {}
+}
